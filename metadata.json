@@ -1,0 +1,8 @@
+{
+  "name": "Photo Tourism AI Guide by Eleandro",
+  "description": "An AI-powered tourism app that identifies landmarks from your photos, provides historical context with cited sources, and offers an audio narration of the landmark's story.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
